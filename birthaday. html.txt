@@ -1,0 +1,25 @@
+<DOCTYPE html>
+html
+     <titele> prctical 1</titel>
+     </head>
+     <body>
+<body background=birthaday.jpg">
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <h1 aligin="center" style ="font-size: 50px;colour:rgb(244,129,6); Lucide Handwrighting;"><b>Birthaday celebration
+     <h1 aligin ="center" >rutvik birthaday party Invitation</h1>
+     <h2 agilin ="center" >hi friends and family </h3>
+     <h1 aligin = >we are happy to inviteyou are for joning birthaday party ,</h3>
+     <br>
+     <h4><center>date of party :17/03/2023 
+     <center>timing :7pm-12am<center></h4>
+     <center> Address: dhabha</center></h1>
+     <h2 aligin = "center" >please treat this as my special invitation for you all and kindiy grace this occasion with your presence and blessings</h2>
+     <h1><center><b>WELCOME</b></center></h1>
+     </body>
+     </html>
+       
